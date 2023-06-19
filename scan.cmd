@@ -1,0 +1,4 @@
+echo
+adb devices
+
+pause
