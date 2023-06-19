@@ -2,7 +2,7 @@
 # MTK Flash Client (c) B.Kerler 2018-2022.
 # Licensed under GPLv3 License
 import argparse
-from App.Library.mtk_main import Main, metamodes
+from app.Library.mtk_main import Main, metamodes
 
 info = "MTK Flash/Exploit Client V1.57 (c) B.Kerler 2018-2022"
 
